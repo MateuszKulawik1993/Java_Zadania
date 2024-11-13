@@ -1,2 +1,6 @@
 rootProject.name = 'Java_Cwiczenia'
+include 'Testy_J.Unit'
+include 'Testy_J.Unit'
+include 'Java_Testy_Rest'
+include 'Java_Spring'
 
