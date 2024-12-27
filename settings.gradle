@@ -3,4 +3,6 @@ include 'Testy_J.Unit'
 include 'Testy_J.Unit'
 include 'Java_Testy_Rest'
 include 'Java_Spring'
+include 'Testy_Parametryczne'
+include 'Mockito'
 

@@ -11,7 +11,9 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Java_Spring" />
             <option value="$PROJECT_DIR$/Java_Testy_Rest" />
+            <option value="$PROJECT_DIR$/Mockito" />
             <option value="$PROJECT_DIR$/Testy_J.Unit" />
+            <option value="$PROJECT_DIR$/Testy_Parametryczne" />
           </set>
         </option>
       </GradleProjectSettings>
